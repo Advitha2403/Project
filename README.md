@@ -1,13 +1,15 @@
-minor-project-Advitha-
-A system that classifies Ayurvedic Prakriti types and recommends personalized psychological treatments based on individual body-mind constitution.
+ Prakriti Classification & Personalized Psychological Treatment System
 
-About the Project
-This project combines traditional Ayurvedic principles with modern technology to classify an individual's Prakriti (body-mind constitution) and recommend personalized psychological treatments.
+A system that classifies Ayurvedic Prakriti types and recommends personalized psychological treatments based on an individual's unique body-mind constitution.
 
-What it does
-Classifies users into Ayurvedic Prakriti types (Vata, Pitta, Kapha)
-Analyzes physical, mental, and behavioral traits
-Recommends personalized psychological treatment plans
-Bridges ancient Ayurvedic wisdom with modern mental health practices
-Why it matters
-Every individual has a unique constitution. Personalized treatment based on Prakriti leads to more effective psychological well-being
+ About the Project
+This project combines traditional Ayurvedic principles with modern technology to identify a person's Prakriti (Vata, Pitta, or Kapha) using physical, mental, and behavioral traits.
+
+ Features
+- Classifies users into Vata, Pitta, and Kapha types.
+- Analyzes physical, psychological, and behavioral characteristics.
+- Recommends personalized psychological treatment plans.
+- Integrates ancient Ayurvedic wisdom with modern mental healthcare.
+
+ Why It Matters
+Every individual has a unique constitution. Personalized treatments based on Prakriti can promote better psychological well-being and a more holistic approach to mental health.

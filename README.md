@@ -11,5 +11,5 @@ This project combines traditional Ayurvedic principles with modern technology to
 - Recommends personalized psychological treatment plans.
 - Integrates ancient Ayurvedic wisdom with modern mental healthcare.
 
- Why It Matters
-Every individual has a unique constitution. Personalized treatments based on Prakriti can promote better psychological well-being and a more holistic approach to mental health.
+ Why It Matters?
+-Every individual has a unique constitution. Personalized treatments based on Prakriti can promote better psychological well-being and a more holistic approach to mental health.
